@@ -24,17 +24,5 @@ body {
   padding: 0 1.5rem 0 0;
   margin: 50px;
   border-radius: 0 0 0.9rem 0;
-  /* letter-spacing: 5px; */
-  word-wrap: break-word;
 }
-/* @keyframes text_anim{
-  to{
-    background-color: white;
-    color: black;
-  }
-} */
-.text:hover {
-  /* color:black;
-  background-color: white; */
-  /* animation: text_anim 3s linear; */
-}
+

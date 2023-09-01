@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: monospace system-ui, sans-serif;
+  background-color: black;
+}
+
+.container {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text {
+  transition: all 200ms;
+  font-family: monospace;
+  font-weight: 700;
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: white;
+  padding: 0 1.5rem 0 0;
+  margin: 50px;
+  border-radius: 0 0 0.9rem 0;
+}
+

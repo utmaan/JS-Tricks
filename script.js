@@ -31,9 +31,9 @@ document.querySelector('.text').onmouseover = (event) => {
         })
         .join('');
 
-      iteration += 1 / 2;
+      iteration += 1 / 3;
       console.log('iter ' + iteration, intervals);
-    }, 4000)
+    }, 40)
   );
   console.log('intervals', intervals);
 };
